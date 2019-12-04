@@ -1,0 +1,474 @@
+body{
+    overflow-x:hidden;
+}
+
+
+/* header area */
+.log-in{
+    float:left;
+}
+.log-in{
+    float:left;
+    padding:20px;
+}
+.sign-up{
+    padding:20px;
+}
+/* end of header area */
+/* navbar area */
+.navbar-nav>li>a:hover{
+	border-bottom:5px solid #0069D9;
+	color:#0069D9;
+	
+}
+.navbar-light .navbar-nav .nav-link {
+     color: #4e8dbd ;
+	 font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: #4e8dbd;
+	font-weight: bold;
+}
+.dropdown:hover>.dropdown-menu
+{
+	display:block;
+}
+
+/* end of nav area */
+/*  slider area */
+.mycaption {
+
+    margin-right: -500px;
+    margin-bottom: 175px;
+    color: #000;
+
+}
+.captionsec{
+    margin-bottom: 175px;
+}
+.captionsec span{
+    padding:20px;
+    font-family:tahoma;
+    font-size:30px;
+  
+    
+    
+    
+}
+.captionsec p{
+    padding:20px;
+    font-family:tahoma;
+    font-size:20px;
+    
+}
+.mycaption span{
+    padding:20px;
+    font-family:tahoma;
+    font-size:30px;
+  
+    
+    
+    
+}
+.mycaption p{
+    padding:20px;
+    font-family:tahoma;
+    font-size:20px;
+    
+}
+/* end of slider area */
+
+/* service area */
+.service-area{
+    margin-top:-45px;
+}
+.box1{
+    height:427px;
+    width:386px;
+    background-color:#1080d0;
+}
+.text-area p{
+    
+    padding:35px 45px;
+    color:#fff;
+}
+.icon i {
+
+    padding-left: 55px;
+    padding-top: 50px;
+    color: #fff;
+    font-size: 35px;
+
+}
+.phone i {
+
+    padding-left: 55px;
+    padding-top: 25px;
+    color: #fff;
+    font-size: 35px;
+
+}
+.text-area h3 {
+
+    padding-left: 54px;
+    padding-top: 15px;
+    color: #fff;
+
+}
+.text-area button{
+
+    margin-bottom:25px;
+    margin-left:45px;
+}
+.box2{
+    height:427px;
+    width:386px;
+    background-color:#1177c0;
+}
+.box2 button{
+    margin-top: 10px;
+}
+.box3 button{
+    margin-top: 60px;
+}
+.box3{
+    height:427px;
+    width:386px;
+    background-color:#0f6eb3;
+}
+.open{
+    border-bottom:1px solid #FFF;
+    margin-top:10px;
+}
+span.day{
+    color:#fff;
+    margin-left:50px;
+}
+span.time{
+    color:#fff;
+    margin-left:106px;
+}
+.icon  {
+    color:#fff;
+    margin-left: 10px;
+}
+/* end service area */
+/* content area */
+.content-area{
+    margin-top:50px;
+    background-color:#f9fafb;
+    padding:50px;
+}
+.image-area  img{
+     border: 2px solid #fff;
+	border-radius: 200px;
+}
+.image-area{
+    margin-top:50px;
+    margin-left:50px;
+   
+    
+    
+}
+.image-area p{
+    margin-bottom:2px;
+    font-family:tahoma;
+    font-size: 20px;
+}
+.image-area button{
+    margin-top:20px;
+    margin-left:50px;
+}
+/* end content area */
+/* service area */
+.servicesecond-area{
+    margin-top:50px;
+    background-color:#ededed;
+    padding:50px;
+}
+.box15 {
+    width: 355px;
+    height: 355px;
+    background-color: #000;
+}
+.box16 {
+    width: 355px;
+    height: 355px;
+    background-color: #000;
+    margin-top:20px;
+}
+.boximg img{
+    padding-left:85px;
+    padding-top:50px;
+}
+p.doctor{
+    padding-left:63px;
+    padding-top:5px;
+    font-size:20px;
+    color:#fff;
+    
+}
+p.find{
+    padding-left:60px;
+    padding-top:0px;
+    font-size:20px;
+    color:#fff;
+}
+/* end service area */
+/* lastest news */
+.lastest-news{
+    margin-top:50px;
+}
+.box17{
+    width:1090px;
+    height:540px;
+    border:1px solid #cccccc;
+}
+.box17 a{
+    text-decoration:none;
+    color:#000;
+    font-size:25px; 
+    margin-left:270px;    
+}
+
+
+
+/* end latest news */
+/* why us */
+.whyus{
+    background-color:#afd7e4;
+    margin-top:50px;
+    padding:20px;
+}
+
+/* end why us */
+/* Contact us */
+.contact  {
+    overflow:hidden;
+    padding-top: 15px;
+    background: #E8F1F3;
+    text-align:center;
+    
+}
+.context p {
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+.conline hr {
+    margin-top:0;
+    margin-bottom:30px;
+    width: 5%;
+    margin-left:47.5%;
+    float: left;
+    border: 1px solid #3596FF;
+}
+.conline {
+    overflow: hidden;
+}
+.contactform {
+    overflow: hidden;
+    padding:5%;
+}
+.address {
+    width:40%;
+    float:left;
+    overflow:hidden;
+}
+.msg {
+    margin-left: 45%;
+    overflow: hidden;
+}
+.formarea input
+{
+    text-align: left;
+    padding:20px;
+    color:#867272;
+    width: 100%;
+    
+    border-top: 1px solid transparent; 
+    border-right: 1px solid transparent; 
+    border-left: .5px solid #3596FF; 
+    border-bottom: 1px solid #3596FF; 
+    padding-top: 20px;
+    margin-bottom: 10px; 
+    text-transform: capitalize;
+}
+
+.contact .btn {
+    padding: 40px 0;
+}
+.contact a {
+    padding: 10px 20px;
+    background: #3596FF;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 4px;
+}
+.contact a:hover {
+    background: #333333;
+}
+textarea {
+    width: 100%;
+    height: 176px;
+    padding: 2%;
+    border-top: 1px solid transparent; 
+    border-right: 1px solid transparent; 
+    border-left: .5px solid #3596FF; 
+    border-bottom: 1px solid #3596FF;
+} 
+/* End Contact us */
+/* Footer area*/
+footer{
+    background-color:#000000;
+    margin-top:50px;
+    color:#fff;
+}
+.footer-top{
+    padding-top:50px;
+    color:#fff;
+}
+
+.us{
+    margin-top:50px;
+}
+.footericon{
+    padding-top:20px;
+}
+.footer-bottom{
+    margin-top:30px;
+    margin-left:220px;
+}
+.scrolltotop {
+	color: #FFFFFF;
+	background: #fe3c47;
+	padding: 10px 15px;
+	position: fixed;
+	right: 15px;
+	bottom: 0;
+	text-decoration: none;
+	display: none;
+}
+
+/* End of Footer area*/
+
+/* lebel */
+label
+{
+	font-weight: bold;
+}
+
+.profile-area{
+    background-color:#e8f1f3;
+    padding:20px;
+}
+.boxdoc{
+    background-color:#fff;
+    width:auto;
+    height:auto;
+    margin-top:50px;
+    margin-left:190px;
+    margin-bottom:50px;
+    
+}
+.text1{
+    margin-top:12px;
+   
+}
+.text1 h2{
+    font-family:tahoma;
+    font-weight:bold;
+    padding-left:20px;
+    padding-bottom:20px;
+    color: #4e8dbd;
+    text-align:center;
+    margin-left:50px;
+}
+.text1 li{
+    font-family:tahoma;
+    padding-left:20px;
+    padding-top:20px;
+    list-style:none;
+}
+.icon1{
+    margin-top:80px;
+}
+.icon1 li{
+    font-family:tahoma;
+    padding-left:20px;
+    padding-top:20px;
+    list-style:none;
+}
+.boxdoc button{
+    margin-left:300px;
+    margin-top:20px;
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: bold;
+    color: #4e8dbd;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+} 
+.dropdown-item:hover {
+   
+    background-color: #4e8dbd;
+	color:#fff;
+
+} 
+.aButton
+{
+	margin-left: 230px;
+	background: #3596FF;
+	color: #fff;
+	font-weight: 500;
+	text-decoration: none;
+	padding: 5px;
+}
+.aButton:hover
+{
+	text-decoration: none;
+	
+	background: #1B3953;
+	color: #3596FF;
+}
+.detail
+{	
+	padding: 10px;
+}
+
+/* profilesec*/
+.profilesec-area {
+    margin-top:50px;
+    background-color:#2c3e50;
+    color:#fff;
+    padding:20px;
+}
+.bloodcolor h6{
+    color:#fff;
+}
+.profilesec-area form {
+    margin-top:50px;
+    margin-left:5%;
+    margin-right:5%;
+    
+}
+/* end of profilesec */
+
+.logModal {
+    padding: 5px;
+}
+.confirmForm
+{
+    margin-left: 5%;
+}
+.confirmForm .form-control
+{
+    padding: 2%;
+}
