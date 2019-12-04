@@ -19,5 +19,6 @@ of Specialist doctors of all departments.<br>
 <h3>Tools</h3>
 1. HTML<br>
 2. CSS, Bootstrap<br>
-3. PHP<br>
-4. MySQL<br>
+3. JavaScript<br>
+4. PHP<br>
+5. MySQL<br>
